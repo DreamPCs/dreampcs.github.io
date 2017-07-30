@@ -1,0 +1,55 @@
+body {
+	background: url('bg.jpg') no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	  background-size: cover;
+	    font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+h1 {
+	color: ff7700;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: b75601;
+	font-size: 18px;
+	margin-top: 0;
+}
+
+h6 {
+	position: absolute;
+	right: 20px;
+	color: white;
+}
+
+.bio {
+	color: fcae6a;
+	font-size: 16px;
+}
+
+.me {
+	height: 150px;
+	border-radius: 100%;
+	border-style: solid;
+	border-color: ff7700;
+	margin-top: 40px;
+}
+
+.about {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+.grey {
+	height: 3px;
+	background-color: #cc6600;
+	border: none;
+	width: 100px;
+}
