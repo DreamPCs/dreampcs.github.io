@@ -9,14 +9,14 @@ body {
 }
 
 h1 {
-	color: ff7700;
+	color: #ff7700;
 	font-size: 50px;
 	font-weight: normal;
 	margin-bottom: 0;
 }
 
 h2 {
-	color: b75601;
+	color: #b75601;
 	font-size: 18px;
 	margin-top: 0;
 }
@@ -28,7 +28,7 @@ h6 {
 }
 
 .bio {
-	color: fcae6a;
+	color: #fcae6a;
 	font-size: 16px;
 }
 
@@ -36,7 +36,7 @@ h6 {
 	height: 150px;
 	border-radius: 100%;
 	border-style: solid;
-	border-color: ff7700;
+	border-color: #ff7700;
 	margin-top: 40px;
 }
 
